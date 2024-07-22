@@ -31,9 +31,9 @@ public class OpenAPIConfig {
         prodServer.setDescription("Ambiente de produção");
 
         Contact contact = new Contact();
-        contact.setEmail("mouracostacosta93@gmail.com");
-        contact.setName("Matheus Moura");
-        contact.setUrl("https://matheus-linktree.vercel.app/");
+        contact.setEmail("storm@email.com");
+        contact.setName("Storm");
+        contact.setUrl("https://storm.com.br");
 
         License mitLicense = new License().name("MIT License").url("https://choosealicense.com/licenses/mit/");
 
